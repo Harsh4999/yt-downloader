@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "ytdl-core": "^4.8.3"
+  }
+}
